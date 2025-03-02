@@ -1,0 +1,3 @@
+La idea es hacer un ejemplo de envio y recepción de variables entre páginas.
+No lo hice por cuestión de tiempo.
+Dejo listo el proyecto para hacerlo en el futuro con Servlets.
